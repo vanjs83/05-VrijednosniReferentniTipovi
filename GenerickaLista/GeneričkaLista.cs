@@ -7,7 +7,7 @@ namespace Vsite.CSharp
     {
         public int X;
     }
-
+    //
     class Program
     {
         static void Main(string[] args)
